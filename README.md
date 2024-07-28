@@ -1,2 +1,2 @@
-# 100-projects
+# my-basic-projects
 
